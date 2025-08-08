@@ -1,4 +1,5 @@
-#Comparación de Eficiencia: Factorial Recursivo vs Iterativo en Python y C
+# Comparación de Eficiencia: Factorial Recursivo vs Iterativo en Python y C
+
 ##En este proyecto se pretende analizar y comparar el rendimiento de dos formas distintas de calcular el factorial de un número entero: una basada en recursión y otra mediante un proceso iterativo. La comparación se realiza en dos lenguajes de programación, Python y C, evaluando el tiempo que tarda cada enfoque en ejecutarse y la cantidad de memoria que utilizan. Los resultados obtenidos se representan gráficamente para facilitar la interpretación y destacar las diferencias en eficiencia entre ambos métodos.
 ##  Implementación
 
