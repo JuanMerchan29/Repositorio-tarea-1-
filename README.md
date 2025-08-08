@@ -13,7 +13,7 @@
 - **Bibliotecas utilizadas**: `time.h`, `psapi.h`, `windows.h`.
 - Se mide el tiempo con `clock()` y el uso de memoria con `GetProcessMemoryInfo`.
 - Se evalúan varios valores grandes de `n`, como 150, 400, 600 y 900
-- ## 🧪 Métodos de Medición
+- ##  Métodos de Medición
 
 ### Python
 
